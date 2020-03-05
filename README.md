@@ -4,7 +4,7 @@
 
 ---
 
-![leetcode.jpeg](./assets/leetcode.jpeg)
+![leetcode.jpeg](./leetcode.jpg)
 
 ## 介绍
 
